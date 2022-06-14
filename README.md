@@ -12,4 +12,4 @@ This reverse shell is just for understanding the concept of basic reverse shell
 
 *Step3: Run the Client*
   
-	$ python Reverse_Cli
+	$ python Reverse_Client.py
